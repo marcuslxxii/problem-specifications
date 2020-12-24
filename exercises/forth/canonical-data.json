@@ -473,7 +473,7 @@
             "evaluated in.                                                    "
           ],
           "scenarios": ["local-scope"],
-          "property": "evaluate",
+          "property": "evaluateBoth",
           "input": {
             "instructionsFirst": [": + - ;", "1 1 +"],
             "instructionsSecond": ["1 1 +"]
