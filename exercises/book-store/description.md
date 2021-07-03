@@ -25,6 +25,8 @@ possible.
 
 For example, how much does this basket of books cost?
 
+Input: 1, 1, 2, 2, 3, 3, 4, 5
+that is:
 - 2 copies of the first book
 - 2 copies of the second book
 - 2 copies of the third book
